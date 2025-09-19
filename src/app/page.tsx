@@ -64,10 +64,6 @@ export default function Dashboard() {
           ))}
         </section>
 
-        {/* Footer */}
-        <footer className="text-center text-gray-300 text-sm mt-12">
-          ⚡ Stats are placeholders — replace with live Champions League data.
-        </footer>
       </div>
     </main>
   );
